@@ -1,9 +1,37 @@
-html{
-    background-color:black;
-   
+html {
+    background-color: rgb(59, 61, 71);
 }
-body{
+
+h1.banner {
+    text-align: center;
+    background-color: black;
     color: white;
-    opacity:0.8
-     
+    padding: 0;
+    margin: 0;
+    font-size: 40px;
+}
+
+h2.secondheading {
+    text-align: center;
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    color: rgb(194, 200, 176);
+}
+
+p {
+    font-size: 24px;
+}
+
+body {
+    color: white;
+    opacity: 1;
+}
+
+.anime-names {
+    font-size: x-large;
+}
+
+.webpage {
+    color: rgb(14, 212, 226);
 }
